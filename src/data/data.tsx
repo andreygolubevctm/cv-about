@@ -129,6 +129,21 @@ export const skills: SkillGroup[] = [
         icon: 'devicon-react-original-wordmark colored'
       },
       {
+        name: 'Angular',
+        level: 6,
+        icon: 'devicon-angularjs-plain colored'
+      },
+      {
+        name: 'Svelte',
+        level: 6,
+        icon: 'devicon-svelte-plain colored'
+      },
+      {
+        name: 'JavaScript',
+        level: 6,
+        icon: 'devicon-javascript-plain colored'
+      },
+      {
         name: 'Typescript',
         level: 7,
         icon: 'devicon-typescript-plain colored'
@@ -145,6 +160,26 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'Node.js',
+        level: 8,
+        icon: 'devicon-nodejs-plain colored'
+      },
+      {
+        name: 'Rust',
+        level: 0,
+        icon: 'devicon-rust-original colored'
+      },
+      {
+        name: 'Golang',
+        level: 4,
+        icon: 'devicon-go-plain colored'
+      },
+    ],
+  },
+  {
+    name: 'Other tools',
+    skills: [
+      {
+        name: 'Git',
         level: 8,
         icon: 'devicon-nodejs-plain colored'
       },
